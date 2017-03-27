@@ -3,7 +3,9 @@ import React from 'react';
 export default React.createClass({
 
   render() {
-    return ();
+    return (
+      <form className="post-edit">post edit</form>
+    );
   }
 
 });

@@ -4,7 +4,7 @@ export default React.createClass({
 
   render() {
     return (
-      <div className="user-view">user view</div>
+      <div className="post-list-view">post list view</div>
     );
   }
 

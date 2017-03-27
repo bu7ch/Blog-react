@@ -1,10 +1,10 @@
--import React from 'react';
+import React from 'react';
 
 export default React.createClass({
 
   render() {
     return (
-      <form className="user-edit">user edit</form>
+      <div className="user-list">user list</div>
     );
   }
 
